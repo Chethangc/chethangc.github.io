@@ -1,2 +1,2 @@
-# chethangc.github.io
-Personal Website
+# My Website # chethangc.github.com
+
