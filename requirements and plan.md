@@ -46,6 +46,7 @@ Optimizing the code into multiple files and improve the protfolio.
 - Basic Bootstrap 5 webpage implementation
 
 ### Milestone 2:  
+- Adding Restriction on master branch
 - About 
 - Resume
 
